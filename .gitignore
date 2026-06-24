@@ -1,0 +1,16 @@
+# Python environment files
+__pycache__/
+*.pyc
+
+# Data files (Keep your raw/processed data local)
+*.csv
+*.xlsx
+*.parquet
+
+# Sensitive information
+.env
+credentials.json
+
+# IDE/Editor folders
+.ipynb_checkpoints/
+.vscode/
