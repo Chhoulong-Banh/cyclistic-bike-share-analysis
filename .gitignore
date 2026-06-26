@@ -1,16 +1,27 @@
-# Python environment files
+# --- Python & Environment ---
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+.ipynb_checkpoints/
 
-# Data files (Keep your raw/processed data local)
+# --- Data Files (Kept local in Google Drive) ---
 *.csv
 *.xlsx
 *.parquet
+*.json
 
-# Sensitive information
+# --- Sensitive Information ---
 .env
 credentials.json
+*.pem
+*.key
 
-# IDE/Editor folders
-.ipynb_checkpoints/
+# --- IDE & OS System Files ---
 .vscode/
+.idea/
+.DS_Store
+Thumbs.db
