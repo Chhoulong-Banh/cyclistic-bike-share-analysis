@@ -1,0 +1,15 @@
+[2026-06-27 12:00:03] [RUN:1bb33203] [INFO] Ensured '/content/drive/MyDrive/Demo/CaseStudy1-CyclisticBikes/type_rules.json' exists with default type rules.
+[2026-06-27 12:00:03] [RUN:1bb33203] [INFO] SESSION_START: Profiler execution opened.
+[2026-06-27 12:00:03] [RUN:1bb33203] [INFO] FILE_START: 202501-divvy-tripdata.csv
+[2026-06-27 12:00:03] [RUN:1bb33203] [INFO] INFO: Master schema established from 202501-divvy-tripdata.csv (first file in Discovery mode).
+[2026-06-27 12:00:03] [RUN:1bb33203] [INFO] FILE_COMPLETE: 202501-divvy-tripdata.csv
+[2026-06-27 12:00:03] [RUN:1bb33203] [INFO] FILE_START: 202502-divvy-tripdata.csv
+[2026-06-27 12:00:04] [RUN:1bb33203] [INFO] INFO: 202502-divvy-tripdata.csv validated successfully against master_registry.
+[2026-06-27 12:00:04] [RUN:1bb33203] [INFO] FILE_COMPLETE: 202502-divvy-tripdata.csv
+[2026-06-27 12:00:04] [RUN:1bb33203] [INFO] FILE_START: 202503-divvy-tripdata.csv
+[2026-06-27 12:00:04] [RUN:1bb33203] [INFO] INFO: 202503-divvy-tripdata.csv validated successfully against master_registry.
+[2026-06-27 12:00:04] [RUN:1bb33203] [INFO] FILE_COMPLETE: 202503-divvy-tripdata.csv
+[2026-06-27 12:00:04] [RUN:1bb33203] [INFO] FILE_START: 202504-divvy-tripdata.csv
+[2026-06-27 12:00:04] [RUN:1bb33203] [INFO] INFO: 202504-divvy-tripdata.csv validated successfully against master_registry.
+[2026-06-27 12:00:04] [RUN:1bb33203] [INFO] FILE_COMPLETE: 202504-divvy-tripdata.csv
+[2026-06-27 12:00:04] [RUN:1bb33203] [INFO] SESSION_END: Profiler closed. Version locked: v1.0.1. Status: SUCCESS

@@ -1,0 +1,39 @@
+{
+    "active_schema": {
+        "ride_id": "VARCHAR(255)",
+        "rideable_type": "VARCHAR(255)",
+        "started_at": "TIMESTAMP",
+        "ended_at": "TIMESTAMP",
+        "start_station_name": "VARCHAR(255)",
+        "start_station_id": "VARCHAR(255)",
+        "end_station_name": "VARCHAR(255)",
+        "end_station_id": "VARCHAR(255)",
+        "start_lat": "NUMERIC(10, 6)",
+        "start_lng": "NUMERIC(10, 6)",
+        "end_lat": "NUMERIC(10, 6)",
+        "end_lng": "NUMERIC(10, 6)",
+        "member_casual": "VARCHAR(255)"
+    },
+    "revision_history": [
+        {
+            "version": "1.0.1",
+            "ts": "2026-06-27T12:00:04.901688",
+            "event": "SUCCESS",
+            "schema": {
+                "ride_id": "VARCHAR(255)",
+                "rideable_type": "VARCHAR(255)",
+                "started_at": "TIMESTAMP",
+                "ended_at": "TIMESTAMP",
+                "start_station_name": "VARCHAR(255)",
+                "start_station_id": "VARCHAR(255)",
+                "end_station_name": "VARCHAR(255)",
+                "end_station_id": "VARCHAR(255)",
+                "start_lat": "NUMERIC(10, 6)",
+                "start_lng": "NUMERIC(10, 6)",
+                "end_lat": "NUMERIC(10, 6)",
+                "end_lng": "NUMERIC(10, 6)",
+                "member_casual": "VARCHAR(255)"
+            }
+        }
+    ]
+}

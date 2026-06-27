@@ -1,0 +1,24 @@
+{
+    "revision_history": [
+        {
+            "version": "1.0.1",
+            "ts": "2026-06-27T12:00:04.901858",
+            "event": "SUCCESS",
+            "schema": {
+                "ride_id": "object",
+                "rideable_type": "object",
+                "started_at": "datetime64[ns]",
+                "ended_at": "datetime64[ns]",
+                "start_station_name": "object",
+                "start_station_id": "object",
+                "end_station_name": "object",
+                "end_station_id": "object",
+                "start_lat": "float64",
+                "start_lng": "float64",
+                "end_lat": "float64",
+                "end_lng": "float64",
+                "member_casual": "object"
+            }
+        }
+    ]
+}

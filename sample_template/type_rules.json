@@ -1,0 +1,20 @@
+{
+    "default_pandas_to_sql_mapping": {
+        "int64": "INTEGER",
+        "float64": "NUMERIC(10, 6)",
+        "bool": "BOOLEAN",
+        "datetime64[ns]": "TIMESTAMP",
+        "object": "VARCHAR(255)"
+    },
+    "column_name_to_sql_type_overrides": {
+        "lat": "NUMERIC(10, 6)",
+        "lng": "NUMERIC(10, 6)",
+        "price": "NUMERIC(12, 2)"
+    },
+    "read_csv_explicit_dtypes": {
+        "start_station_name": "str",
+        "start_station_id": "str",
+        "end_station_name": "str",
+        "end_station_id": "str"
+    }
+}
