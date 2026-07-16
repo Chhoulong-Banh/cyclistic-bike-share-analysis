@@ -1,0 +1,11 @@
+{
+    "BASE_DIR": "...",
+    "RAW_DATA_PATH": "...",
+    "LOG_AUDIT_PATH": "...",
+    "MASTER_SCHEMA": "...",
+    "PY_SCHEMA": "...",
+    "TYPE_RULES": "...",
+    "PIPELINE_AUDIT": "...",
+    "QUALITY_RULES": "...",
+    "PROFILE_SAMPLE_ROWS": 1000
+}

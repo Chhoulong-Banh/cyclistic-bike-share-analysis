@@ -1,6 +1,0 @@
-{
-    "BASE_DIR": "...",
-    "RAW_DATA_PATH": "...",
-    "LOG_AUDIT_PATH": "...",
-    "PIPELINE_AUDIT": "..."
-}

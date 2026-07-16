@@ -17,9 +17,9 @@ venv/
 # --- Sensitive Information ---
 .env
 credentials.json
-!sample_credentials.json
+!credentials_sample.json
 config.json
-!sample_config.json
+!config_sample.json
 *.pem
 *.key
 
